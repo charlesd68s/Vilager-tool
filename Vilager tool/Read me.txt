@@ -1,2 +1,0 @@
-open setup.bat 
-after open Vilager tool
