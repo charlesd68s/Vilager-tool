@@ -1,8 +1,0 @@
-requests
-bcrypt
-Pillow
-piexif
-exifread
-rarfile
-pyzipper
-beautifulsoup4
